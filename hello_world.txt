@@ -1,1 +1,4 @@
 Hello world, I am ready to learn!
+All right so I created this git_test folder outside of the repo folder
+The one inside the repo folder I just messed it up
+So yeah..
